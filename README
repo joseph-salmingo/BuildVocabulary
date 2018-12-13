@@ -1,0 +1,5 @@
+This programming project has an end goal of being able to recommend books using vocabulary level as a factor.
+
+However, before we can get there, we must be able to analyze the vocabulary of the user as well as the source material, so we have to make that.
+
+The first step is to be able to analyze the vocabulary level of any text.
